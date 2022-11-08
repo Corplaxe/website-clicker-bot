@@ -1,0 +1,42 @@
+1667904731012	geckodriver	INFO	Listening on 127.0.0.1:58331
+1667904761263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58332" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TunaH\\AppData\\Local\\Temp\\rust_mozprofileSQBiBm"
+1667904761860	Marionette	INFO	Marionette enabled
+1667904761868	Marionette	INFO	Listening on port 58340
+Read port: 58340
+WebDriver BiDi listening on ws://127.0.0.1:58332
+1667904762099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58332/devtools/browser/17bf9a6a-f021-4593-94a0-44369270150e
+JavaScript warning: https://www.google.com/js/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 2226 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.google.com/, line 1: SecurityError: Permission denied to access property "navigator" on cross-origin object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: resource://gre/modules/PromiseWorker.jsm, line 108: Error: Could not get children of file(C:\Users\TunaH\AppData\Local\Temp\rust_mozprofileSQBiBm\thumbnails) because it does not exist
+JavaScript error: https://www.tersanecaddesi.com/geka-25li-kontak-meme-m6-10-mm, line 1270: SyntaxError: unexpected token: '{'
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.tersanecaddesi.com/gekatec-kirmizi-tungsten-1.6-x-175-mm, line 1313: SyntaxError: unexpected token: '{'
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+JavaScript error: https://www.google.com/, line 1: SecurityError: Permission denied to access property "navigator" on cross-origin object
+JavaScript warning: https://www.google.com/js/bg/PTWQOrfCOp17EyrMcPeT6PfhP85_faJCCfTgkqMfTIQ.js line 2 > eval line 6939 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.google.com."
+Port.onMessage event fired while context is inactive.
+Port.onMessage event fired while context is inactive.
+1667905157760	Marionette	INFO	Stopped listening on port 58340
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 81244, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
